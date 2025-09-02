@@ -2,7 +2,7 @@ venv/
 env/
 .venv/
 .env/
-
+/books
 __pycache__/
 *.pyc
 *.pyo
